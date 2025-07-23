@@ -1,0 +1,26 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "OpenAI Corp.",
+      "structure": "LLC",
+      "state": "California",
+      "domicileCity": "San Francisco",
+      "domicileCounty": "SF County",
+      "email": "info@openai.com",
+      "phone": "123-456-7890",
+      "businessPurpose": "AI Research"
+    },
+    {
+      "id": 2,
+      "name": "Meta Inc.",
+      "structure": "C-Corp",
+      "state": "New York",
+      "domicileCity": "Brooklyn",
+      "domicileCounty": "Kings",
+      "email": "meta@meta.com",
+      "phone": "999-888-7777",
+      "businessPurpose": "Social Networking"
+    }
+  ]
+}
